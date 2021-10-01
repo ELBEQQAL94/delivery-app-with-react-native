@@ -1,4 +1,7 @@
+// LIBS
 import React from "react";
+
+// React Native Components
 import { View, Text } from "react-native";
 
 const Notification = () => {

@@ -7,7 +7,7 @@ import { Image, TouchableOpacity } from "react-native";
 // CONSTANTS
 import { COLORS } from "../../constants";
 
-const IconButton = ({ containerStyle, icon, iconStyle, onPress}) => {
+const IconButton = ({ containerStyle, icon, iconStyle, onPress }) => {
     return (
         <TouchableOpacity
             style={{
